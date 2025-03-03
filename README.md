@@ -114,14 +114,3 @@ For any questions or clarifications regarding the MFM method, please contact:
 **Dr. David Morillas Armendáriz**  
 Independent Researcher  
 Email: **dr.morillas.armendariz@gmail.com**
-
----
-
-### Summary of Improvements in this Version
-✔ Improved formatting and readability.  
-✔ Added section numbering for better organization.  
-✔ Clarified script execution steps and expected outputs.  
-✔ Provided additional context on performance and randomness.  
-✔ Included a structured contact section for further inquiries.  
-
-This README is now fully professional and suitable for submission to high-impact journals along with the manuscript. 🚀
